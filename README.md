@@ -1,7 +1,7 @@
 ## Blocks-Pro-S30
-![image](https://http://blockstec.com/assets/images/PRO-736x827.png)
+![PRO-736x827](https://user-images.githubusercontent.com/38045875/98389662-43153a00-204c-11eb-8703-77c1ed2edb97.png)
 
-This repository contains all the important information for the Blocks Pro S30. You can also check our website to obtain more information about this printer and others, www.blockstec.com[3].
+This repository contains all the important information for the Blocks Pro S30. You can also check our website to obtain more information about this printer and others, www.blockstec.com.
 
 ## Firmware
 
