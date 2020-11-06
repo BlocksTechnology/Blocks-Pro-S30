@@ -1,16 +1,16 @@
-## Blocks-Pro-S30
-![PRO-736x827](https://user-images.githubusercontent.com/38045875/98389662-43153a00-204c-11eb-8703-77c1ed2edb97.png)
+## Blocks Pro S30
+![PRO-736x827](https://user-images.githubusercontent.com/38045875/98390586-7a381b00-204d-11eb-94ca-bd6d2f85e8b8.png)
 
 This repository contains all the important information for the Blocks Pro S30. You can also check our website to obtain more information about this printer and others, www.blockstec.com.
 
 ## Firmware
 
-Blocks Pro S30 firmware is Marlin based, however it has a lot of tweaks in order to improve the user experience. If you wish to download the firmware go to [Releases page][5] and download the firmware (.hex file) and the instructions manual for how to install such firmware. 
+Blocks Pro S30 firmware is Marlin based, however it has a lot of tweaks in order to improve the user experience. If you wish to download the firmware go to [Update Firmware][8] and download the firmware (.hex file) and the instructions manual for how to install such firmware. 
 
-In [Source Code page][] you will find the source code for this printer. It is important to refer that the main repository [Blocks Firmware][5] is where all the firmware updates will be released. So if you want to find the latest update for this printer head there.
+In [Source Code page][7] you will find the source code for this printer. It is important to refer that the main repository [Blocks Firmware][5] is where all the firmware updates will be released. So if you want to find the latest update for this printer head there.
 
 ## User Manual
-In this respository you will also find the User Manual of this 3D printer, so you can solve small problems, like cloughs, and learn more about your printer.
+In this respository you will also find the [User Manual][9] of this 3D printer, so you can solve small problems, like cloughs, and learn more about your printer.
 
 ## Features
 
@@ -32,3 +32,6 @@ In this respository you will also find the User Manual of this 3D printer, so yo
 [4]:https://github.com/MarlinFirmware/Marlin
 [5]:https://github.com/BlocksTechnology/Blocks-Firmware
 [6]:https://github.com/BlocksTechnology/Blocks-Firmware/issues
+[7]:https://github.com/BlocksTechnology/Blocks-Pro-S30/tree/main/Source%20Code
+[8]:https://github.com/BlocksTechnology/Blocks-Pro-S30/tree/main/Update%20Firmware
+[9]:https://github.com/BlocksTechnology/Blocks-Pro-S30/blob/main/pro_s30_user_manual.pdf
